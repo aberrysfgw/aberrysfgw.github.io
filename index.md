@@ -9,18 +9,18 @@ You can use the [editor on GitHub](https://github.com/aberrysfgw/aberrysfgw.gith
 ### Random Word Lists
 
 #### Random Words
--zesty
--button
--new
--helpful
--mere
+- zesty  
+- button  
+- new  
+- helpful  
+- mere  
 
 #### Random Verbs
--buy
--lift
--forget
--want
--modify
+- buy
+- lift
+- forget
+- want
+- modify
 
 ### Markdown
 
